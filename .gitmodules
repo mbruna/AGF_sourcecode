@@ -1,0 +1,3 @@
+[submodule "Stochastic_simulations/Aboria"]
+	path = Stochastic_simulations/Aboria
+	url = https://github.com/aboria/Aboria.git
